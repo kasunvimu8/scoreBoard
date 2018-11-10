@@ -1,0 +1,67 @@
+body{
+    
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+    margin-bottom:0;
+    margin-width:0;
+    margin-height:0;
+    background-color:rgba(12, 12, 119, 0.76); 
+    
+}
+.heading {
+    font:Tahoma, Verdana;
+    font-size:40px;
+    color:#ffffff;
+    font-weight:bold;
+    line-height:32px;
+    padding-left:23px;
+    padding-top: 20px;
+    text-align: center;
+}
+.category{
+    font:Tahoma, Verdana;
+    font-size:40px;
+    color:#ffffff;
+    font-weight:bold;
+    line-height:32px;
+    padding-left:23px;
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+.tab { 
+    display:inline-block; 
+    margin-left: 40px; 
+}
+#id1{
+
+    text-align: center;
+}
+
+#score{
+display: inline;
+font-size: 100px;
+}
+
+#id2{
+ 
+    border: solid black 3px;
+
+}
+#id3{
+ 
+    border: solid black 6px;
+
+}
+
+#id4{
+
+    background-color: rgb(75, 192, 212);
+}
+
+#id5{
+    border: solid black 3px; 
+    background-color: rgb(106, 235, 181);
+}
